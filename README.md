@@ -25,3 +25,5 @@ Welcome to the Hand Gesture Controlled Presentation project! Effortlessly contro
    - 👉 **Draw**: To draw in your presentation use your index finger pointer.
    - 👍 **Erase**: To erase the drawing in presentation use your index, middle and ring fingers.
 
+## Note 
+   - Instead of the given presentation you can upload your presentation 
